@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=bm5XPlWW1EA&list=PLlameCF3cMEtL5IjUXaK1iXnJqzLZMea5&ab_channel=ScalableScripts
+
+composer create-project laravel/laravel laravel-chat
